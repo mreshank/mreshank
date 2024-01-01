@@ -23,7 +23,7 @@
 
 
 ## 
-<div style="display: flex;"> <img src="https://media4.giphy.com/media/14D80hPRCWWnGeyRlY/giphy.gif?cid=ecf05e47hm4poo8te3a0ii5sijufol9zapzz80doaj0nojfz&ep=v1_gifs_related&rid=giphy.gif&ct=s" width="50"> <h2>   Let's connect ♥ </h2> </div> </br>
+<img align = 'left' src="https://media4.giphy.com/media/14D80hPRCWWnGeyRlY/giphy.gif?cid=ecf05e47hm4poo8te3a0ii5sijufol9zapzz80doaj0nojfz&ep=v1_gifs_related&rid=giphy.gif&ct=s" width="50"> <h2>   Let's connect ♥ </h2> </br>
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mreshank) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mreshank) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/mreshank) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@mreshanktyagi) ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCmz0KSVA40atJqEoKAkFulw)
 
@@ -32,7 +32,7 @@
 
 
 ##
-<div style="display: flex;"> <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3d0cXJmMzB3bG4weWZxOGRhcmd0MWYyc2JjNW9vejFyZXZlN3pvaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WFZvB7VIXBgiz3oDXE/giphy.gif" width="50"> <h2>   Tech Stack ? </h2> </div> </br>
+<img align = 'left' src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3d0cXJmMzB3bG4weWZxOGRhcmd0MWYyc2JjNW9vejFyZXZlN3pvaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WFZvB7VIXBgiz3oDXE/giphy.gif" width="50"> <h2>   Tech Stack ? </h2> </br>
 
 <div align="center" style="display: flex; flex-direction: column; justify-content: space-evenly;">
     <div align="center" style="display: flex; align-items: center; justify-content: center; justify-content: space-evenly;">
@@ -50,7 +50,7 @@
  
   
 ##
-<div style="display: flex;"> <img src="https://media1.giphy.com/media/l4FGrHErakgV8GRO0/giphy.gif?cid=ecf05e47wewxviqsc0c4ttaghuas9e12h6v5mqwnwd8uunbv&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="50"> <h2 align="start">  Github Status ╞╕ </h2> </div> </br>
+<img align = 'left' src="https://media1.giphy.com/media/l4FGrHErakgV8GRO0/giphy.gif?cid=ecf05e47wewxviqsc0c4ttaghuas9e12h6v5mqwnwd8uunbv&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="50"> <h2 align="start">  Github Status ╞╕ </h2> </br>
 
 <h2 </h2>
 

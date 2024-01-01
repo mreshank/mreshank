@@ -44,7 +44,7 @@
     </div>
     <br>
 
-[![c]]         ![][java]         ![][github]         ![][c++]         ![][python]         ![][git]         ![][javascript]         ![][html]         ![][css] </br>
+[![c](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c)]         ![][java]         ![][github]         ![][c++]         ![][python]         ![][git]         ![][javascript]         ![][html]         ![][css] </br>
 </div>
 
 [![C++]]

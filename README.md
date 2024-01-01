@@ -14,7 +14,7 @@
            -> at <a href="https://shivalikcollege.edu.in/"> Shivalik College of Engineering </a>
         <img src="https://i.giphy.com/5HPUYijRDK3gRpMKXw.webp" width="20">
         </br></br>
-        Coding Enthusiast, doing Web Dev right now . . .
+        > Coding Enthusiast, doing Web Dev right now . . .
         <img src="https://i.giphy.com/hS42TuYYnANLFR9IRQ.webp" width="20"> 
         </br></br>
     </em>

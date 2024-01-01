@@ -47,7 +47,7 @@
 [![c]]         ![][java]         ![][github]         ![][c++]         ![][python]         ![][git]         ![][javascript]         ![][html]         ![][css] </br>
 </div>
 
-[![C++]()]
+[![C++]]
   
 ##
 <img align = 'left' src="https://media1.giphy.com/media/l4FGrHErakgV8GRO0/giphy.gif?cid=ecf05e47wewxviqsc0c4ttaghuas9e12h6v5mqwnwd8uunbv&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="50"> <h2 align="start">  Github Status ╞╕ </h2> </br>

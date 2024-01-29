@@ -4,7 +4,7 @@
 
 
 
-##[![](https://visitcount.itsvg.in/api?id=mreshank&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
+## [![](https://visitcount.itsvg.in/api?id=mreshank&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
  <img align = 'left' src="https://media1.giphy.com/media/INWvHtY18ElyvtEdS2/200w.webp?cid=ecf05e4791xr3aiioli373i3p495euquk08zcpl7zzipcp00&ep=v1_stickers_search&rid=200w.webp&ct=s" width="50"> <h2> Hi, I'm <strong> Eshank Tyagi </strong>. ☺</h2> <!-- <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> -->
 <img align = 'right' src="https://media0.giphy.com/media/gjrYDwbjnK8x36xZIO/200w.webp?cid=ecf05e47ftec81a6c31a10x5cz784x46nc9jrms0zxtsrd6v&ep=v1_gifs_related&rid=200w.webp&ct=s" width="275" style="border-radius: 50; transform: scaleX(-1);"></br>
 

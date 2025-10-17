@@ -31,7 +31,7 @@
     <ul>
       <li>
         <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjJucGl4dzNxdTJteGpyd2I3eGIxbWlrbXRuMHR1cnRzYXQ1am9vZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/XcR5EzmXLEaKk2YROn/giphy.gif" width="22" style="vertical-align:middle" />
-        <b>From intern to lead in under a year</b>
+        <b>From intern to lead in under two year</b>
         <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2F2b2J6d3F2b2J6d3F2b2J6d3F2b2J6d3F2b2J6d3F2b2J6/3o7aD2saalBwwftBIY/giphy.gif" width="22" style="vertical-align:middle" />
         <i>(But wait, is that normal? Something's not right...)</i>
       </li>

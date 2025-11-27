@@ -1,0 +1,453 @@
+# ===========================
+# Operating Systems
+# ===========================
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+.AppleDB
+.AppleDesktop
+
+# Windows
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+*.stackdump
+[Dd]esktop.ini
+$RECYCLE.BIN/
+*.cab
+*.msi
+*.msix
+*.msm
+*.msp
+*.lnk
+
+# Linux
+*~
+.fuse_hidden*
+.directory
+.Trash-*
+.nfs*
+
+# ===========================
+# IDEs & Editors
+# ===========================
+
+# VSCode
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+!.vscode/*.code-snippets
+.history/
+*.vsix
+
+# Cursor
+.cursor/
+
+# JetBrains IDEs
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+.idea_modules/
+cmake-build-*/
+*.swp
+*.swo
+
+# Sublime Text
+*.sublime-workspace
+*.sublime-project
+
+# Vim
+[._]*.s[a-v][a-z]
+[._]*.sw[a-p]
+[._]s[a-rt-v][a-z]
+[._]ss[a-gi-z]
+[._]sw[a-p]
+
+# BlueJ
+*.ctxt
+.mtj.tmp/
+
+# ===========================
+# Node.js & JavaScript/TypeScript
+# ===========================
+
+# Dependencies
+node_modules/
+jspm_packages/
+bower_components/
+
+# Build outputs
+dist/
+dist-ssr/
+build/
+*.local
+
+# Testing
+coverage/
+*.lcov
+.nyc_output
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+pnpm-debug.log*
+
+# Package manager files
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+.pnpm-store/
+.yarn/
+.pnp.*
+
+# Cache
+.npm
+.eslintcache
+.stylelintcache
+.node_repl_history
+.cache/
+.parcel-cache
+
+# Next.js
+.next/
+out/
+.vercel
+.turbo
+
+# Vite
+vite.config.js.timestamp-*
+vite.config.ts.timestamp-*
+
+# ===========================
+# Environment Variables
+# ===========================
+
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+.env.*.local
+
+# ===========================
+# Python
+# ===========================
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Distribution / packaging
+.Python
+develop-eggs/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Virtual environments
+venv/
+ENV/
+env/
+.venv
+env.bak/
+venv.bak/
+pyvenv.cfg
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Unit test / coverage
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb_checkpoints/
+
+# IPython
+profile_default/
+ipython_config.py
+
+# pyenv
+.python-version
+
+# pipenv
+Pipfile.lock
+
+# Poetry
+poetry.lock
+
+# Celery
+celerybeat-schedule
+celerybeat.pid
+
+# Scrapy
+.scrapy
+
+# Sphinx documentation
+docs/_build/
+
+# PyBuilder
+target/
+
+# Django
+*.log
+local_settings.py
+db.sqlite3
+db.sqlite3-journal
+/media
+/staticfiles
+
+# Flask
+instance/
+.webassets-cache
+
+# ===========================
+# Java
+# ===========================
+
+# Compiled class files
+*.class
+
+# Package Files
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# virtual machine crash logs
+hs_err_pid*
+replay_pid*
+
+# Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+.mvn/wrapper/maven-wrapper.jar
+
+# Gradle
+.gradle
+**/build/
+!src/**/build/
+gradle-app.setting
+!gradle-wrapper.jar
+!gradle-wrapper.properties
+.gradletasknamecache
+
+# ===========================
+# C/C++
+# ===========================
+
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# CMake
+CMakeLists.txt.user
+CMakeCache.txt
+CMakeFiles
+CMakeScripts
+Testing
+Makefile
+cmake_install.cmake
+install_manifest.txt
+compile_commands.json
+CTestTestfile.cmake
+_deps
+
+# ===========================
+# Databases
+# ===========================
+
+# MongoDB
+*.mdb
+*.ldb
+
+# SQLite
+*.sqlite
+*.sqlite3
+*.db
+
+# PostgreSQL
+*.dump
+
+# Redis
+dump.rdb
+
+# ===========================
+# Docker
+# ===========================
+
+# Docker
+*.pid
+.dockerignore
+docker-compose.override.yml
+
+# ===========================
+# Firebase
+# ===========================
+
+.firebase/
+firebase-debug.log
+firestore-debug.log
+ui-debug.log
+database-debug.log
+pubsub-debug.log
+*.cache
+
+# ===========================
+# Cloud & Deployment
+# ===========================
+
+# Terraform
+*.tfstate
+*.tfstate.*
+.terraform/
+crash.log
+override.tf
+override.tf.json
+*_override.tf
+*_override.tf.json
+.terraformrc
+terraform.rc
+
+# Kubernetes
+*.kubeconfig
+
+# ===========================
+# Miscellaneous
+# ===========================
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.backup
+*.swp
+*.swo
+*~
+
+# Archives
+*.7z
+*.dmg
+*.gz
+*.iso
+*.tar
+
+# Secrets & Keys
+*.pem
+*.key
+*.cert
+*.crt
+*.p12
+*.pfx
+.secrets/
+secrets.yml
+secrets.json
+
+# Logs & Reports
+*.log
+*.rpt
+logs/
+
+# Generated documentation
+/docs/api/
+/docs/.vitepress/dist
+
+# User-specific files
+.private/
+.local/
+TODO.md
+NOTES.md
+
+# Others
+test.html

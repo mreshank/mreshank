@@ -55,17 +55,17 @@
   </tr>
 </table>
 
-<!-- Enhanced About Cards -->
+<!-- Enhanced About Cards - Fully Responsive -->
 <table align="center" width="95%" cellspacing="10">
-  <tr style="display:flex; flex-wrap:wrap; justify-content:center; align-items:start; flex:1;">
+  <tr style="display:flex; flex-wrap:wrap; justify-content:center; align-items:flex-start; gap:10px;">
     <!-- Card 1: Professional Journey -->
-    <td width="46%" valign="top" style="min-width: 280px; flex:1;">
+    <td valign="top" style="min-width:280px; max-width:460px; flex:1 1 45%; padding:10px;">
       <h3>
         <img src="https://media4.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="30" style="vertical-align:middle" />
         <b>🚀 Professional Journey</b>
-      </h3>
+</h3>
       <blockquote>
-        <p align="left" style="display:flex; flex-wrap:wrap; align-items:center; gap:8px;">
+        <p align="left">
           <img src="https://img.shields.io/badge/Frontend_Lead-Matters.AI-FF6B6B?style=flat-square" /><br>
           <sub><i>ex-OptIQ.AI</i></sub>
         </p>
@@ -81,12 +81,12 @@
             <li>Led frontend architecture for AI products</li>
             <li>Shipped 15+ production features</li>
             <li>Mentored 5+ junior developers</li>
-          </ul>
+    </ul>
         </p>
       </blockquote>
     </td>
     <!-- Card 2: Teaching & Community -->
-    <td width="46%" valign="top" style="min-width: 280px; flex:1;">
+    <td valign="top" style="min-width:280px; max-width:460px; flex:1 1 45%; padding:10px;">
       <h3>
         <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3hycWR3cjdqMmRzczFjMmw4dGZhajJkbWFuNjdtYmY5bXd2cGQzZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/2nOWDXUevMgFQJ8O1l/giphy.gif" width="30" style="vertical-align:middle" />
         <b>🎓 Teaching & Community</b>
@@ -107,7 +107,7 @@
             <li>Learn by building real projects</li>
             <li>Debug together, grow together</li>
             <li>Make coding fun & accessible</li>
-          </ul>
+    </ul>
         </p>
       </blockquote>
     </td>
@@ -127,7 +127,7 @@
 
 <br />
 
-<!-- Quick Highlights Section -->
+<!-- Quick Highlights Section - Fully Responsive -->
 <div align="center">
 
 <table width="100%">
@@ -142,42 +142,42 @@
   </tr>
 </table>
 
-<!-- Enhanced Highlight Cards -->
-<table align="center" width="90%">
-  <tr>
-    <td align="center" width="30%" style="padding: 15px;">
+<!-- Enhanced Highlight Cards - Fully Responsive -->
+<table align="center" width="95%">
+  <tr style="display:flex; flex-wrap:wrap; justify-content:center; align-items:center; gap:20px;">
+    <td align="center" style="min-width:150px; max-width:250px; flex:1 1 30%; padding:15px;">
       <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWR2OWdmOTRxajZzM2lnejkyOHVyajFnbjlqYnQ5N3QycXY3N3ZyaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3dcIuuTMdo6mqlfYYR/giphy.gif" height="50" /><br>
       <b>🪄 Frontend Wizard</b><br>
       <sub>React | Next.js | TypeScript</sub><br>
       <sub><i>Summoning pixels like magic ✨</i></sub>
     </td>
-    <td align="center" width="30%" style="padding: 15px;">
+    <td align="center" style="min-width:150px; max-width:250px; flex:1 1 30%; padding:15px;">
       <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGRuYjh6YXM3bzFwdXRxNWNzNjdubnIyYzdqZ3VqbnNzbzJmenQ5MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Ln92FakG5zTZJXQBYl/giphy.gif" height="50" /><br>
       <b>🥁 Drummer</b><br>
       <sub>Code + Drums = Life</sub><br>
       <sub><i>Sometimes both at once 🎵</i></sub>
     </td>
-    <td align="center" width="30%" style="padding: 15px;">
+    <td align="center" style="min-width:150px; max-width:250px; flex:1 1 30%; padding:15px;">
       <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGJqOWt1Y2xkNTNxcGN4c2Fzb3VyNHNuZDdmbTgzcTJtOTdsYXZ2aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/MBgMP74Nkf7nGfTnp1/giphy.gif" height="50" /><br>
       <b>🎤 Speaker</b><br>
       <sub>Google DevFest</sub><br>
       <sub><i>Web perf tips that slap 💪</i></sub>
     </td>
   </tr>
-  <tr>
-    <td align="center" width="30%" style="padding: 15px;">
+  <tr style="display:flex; flex-wrap:wrap; justify-content:center; align-items:center; gap:20px;">
+    <td align="center" style="min-width:150px; max-width:250px; flex:1 1 30%; padding:15px;">
       <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHMxdmgxaGZ0Z3hhM3NsYmYwZmFuamducXRrOWNvczExand2Zm56cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/TjYAtM4ZFWVysHYtJy/giphy.gif" height="50" /><br>
       <b>🏆 NCO Topper</b><br>
       <sub>District Level × 2</sub><br>
       <sub><i>Consistency is key 🔑</i></sub>
     </td>
-    <td align="center" width="30%" style="padding: 15px;">
+    <td align="center" style="min-width:150px; max-width:250px; flex:1 1 30%; padding:15px;">
       <img src="https://i.giphy.com/hS42TuYYnANLFR9IRQ.webp" height="50" /><br>
       <b>💤 Hackathon Sleeper</b><br>
       <sub>2nd Runner Up @ UTU</sub><br>
       <sub><i>Built while others slept 😴</i></sub>
     </td>
-    <td align="center" width="30%" style="padding: 15px;">
+    <td align="center" style="min-width:150px; max-width:250px; flex:1 1 30%; padding:15px;">
       <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGtkN3R5cmlvNG80bjRxYzF0OGc0ZTV5Ym1rZzhrM2RlbWMwZG96NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/lP8xu5t2DLGG045H8F/giphy.gif" height="50" /><br>
       <b>📚 Lifelong Learner</b><br>
       <sub>Always Growing</sub><br>
@@ -194,7 +194,11 @@
 
 <br />
 
-<h3 align="center"><img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" height=20 title="I Speak Programming" style="vertical-align:middle" />My Playground: Tech Stack in Action<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZHloZHR6Z3dkZTRqejdreTVxa3FwMTVoM2J6MW9lc2ZrcDV6YWVvMCZlcD12MV9zdGlja2Vyc19yZWxhdGVkJmN0PXRz/nje3Ejx61FqAO7Vcuh/giphy.gif" height=24 title="I Speak Programming" style="vertical-align:middle" /></h3>
+<h3 align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" height="20" title="Tech Stack" style="vertical-align:middle" />
+  My Playground: Tech Stack in Action
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZHloZHR6Z3dkZTRqejdreTVxa3FwMTVoM2J6MW9lc2ZrcDV6YWVvMCZlcD12MV9zdGlja2Vyc19yZWxhdGVkJmN0PXRz/nje3Ejx61FqAO7Vcuh/giphy.gif" height="24" title="Tech Stack" style="vertical-align:middle" />
+</h3>
 
 <div align="center">
 
@@ -212,33 +216,33 @@
 </table>
 
 <table align="center">
-  <tr style="display:flex; flex-wrap:wrap; justify-content:center; align-items:center;">
-    <td align="center" style="padding: 8px;">
+  <tr style="display:flex; flex-wrap:wrap; justify-content:center; align-items:center; gap:8px;">
+    <td align="center" style="padding:8px; min-width:100px;">
       <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="60" height="60" />
       <br><strong>React</strong>
       <br><img src="https://progress-bar.dev/95/?scale=100&width=80&color=00BCD4&suffix=%25" alt="95%" />
     </td>
-    <td align="center" style="padding: 8px;">
+    <td align="center" style="padding:8px; min-width:100px;">
       <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="60" height="60" />
       <br><strong>JavaScript</strong>
       <br><img src="https://progress-bar.dev/95/?scale=100&width=80&color=f7b32b&suffix=%25" alt="95%" />
     </td>
-    <td align="center" style="padding: 8px;">
+    <td align="center" style="padding:8px; min-width:100px;">
       <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="60" height="60" />
       <br><strong>TypeScript</strong>
       <br><img src="https://progress-bar.dev/90/?scale=100&width=80&color=3178c6&suffix=%25" alt="90%" />
     </td>
-    <td align="center" style="padding: 8px;">
+    <td align="center" style="padding:8px; min-width:100px;">
       <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="60" height="60" />
       <br><strong>Next.js</strong>
       <br><img src="https://progress-bar.dev/95/?scale=100&width=80&color=000000&suffix=%25" alt="95%" />
     </td>
-    <td align="center" style="padding: 8px;">
+    <td align="center" style="padding:8px; min-width:100px;">
       <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="60" height="60" />
       <br><strong>Node.js</strong>
       <br><img src="https://progress-bar.dev/90/?scale=100&width=80&color=43A047&suffix=%25" alt="90%" />
     </td>
-    <td align="center" style="padding: 8px;">
+    <td align="center" style="padding:8px; min-width:100px;">
       <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" width="60" height="60" />
       <br><strong>Tailwind</strong>
       <br><img src="https://progress-bar.dev/95/?scale=100&width=80&color=38B2AC&suffix=%25" alt="95%" />
@@ -262,43 +266,43 @@
 </table>
 
 <table align="center">
-  <tr style="display:flex; flex-wrap:wrap; justify-content:center; align-items:center;">
-    <td align="center" style="padding: 6px;">
+  <tr style="display:flex; flex-wrap:wrap; justify-content:center; align-items:center; gap:6px;">
+    <td align="center" style="padding:6px; min-width:90px;">
       <img src="https://skillicons.dev/icons?i=python" width="50" height="50" />
       <br><strong>Python</strong>
       <br><img src="https://progress-bar.dev/85/?scale=100&width=75&color=2a9d8f&suffix=%25" alt="85%" />
     </td>
-    <td align="center" style="padding: 6px;">
+    <td align="center" style="padding:6px; min-width:90px;">
       <img src="https://skillicons.dev/icons?i=mongodb" width="50" height="50" />
       <br><strong>MongoDB</strong>
       <br><img src="https://progress-bar.dev/85/?scale=100&width=75&color=4EA94B&suffix=%25" alt="85%" />
     </td>
-    <td align="center" style="padding: 6px;">
+    <td align="center" style="padding:6px; min-width:90px;">
       <img src="https://skillicons.dev/icons?i=redux" width="50" height="50" />
       <br><strong>Redux</strong>
       <br><img src="https://progress-bar.dev/85/?scale=100&width=75&color=764ABC&suffix=%25" alt="85%" />
     </td>
-    <td align="center" style="padding: 6px;">
+    <td align="center" style="padding:6px; min-width:90px;">
       <img src="https://skillicons.dev/icons?i=express" width="50" height="50" />
       <br><strong>Express</strong>
       <br><img src="https://progress-bar.dev/85/?scale=100&width=75&color=000000&suffix=%25" alt="85%" />
     </td>
-    <td align="center" style="padding: 6px;">
+    <td align="center" style="padding:6px; min-width:90px;">
       <img src="https://skillicons.dev/icons?i=firebase" width="50" height="50" />
       <br><strong>Firebase</strong>
       <br><img src="https://progress-bar.dev/85/?scale=100&width=75&color=FFB300&suffix=%25" alt="85%" />
     </td>
-    <td align="center" style="padding: 6px;">
+    <td align="center" style="padding:6px; min-width:90px;">
       <img src="https://skillicons.dev/icons?i=supabase" width="50" height="50" />
       <br><strong>Supabase</strong>
       <br><img src="https://progress-bar.dev/80/?scale=100&width=75&color=3ECF8E&suffix=%25" alt="80%" />
     </td>
-    <td align="center" style="padding: 6px;">
+    <td align="center" style="padding:6px; min-width:90px;">
       <img src="https://skillicons.dev/icons?i=vite" width="50" height="50" />
       <br><strong>Vite</strong>
       <br><img src="https://progress-bar.dev/90/?scale=100&width=75&color=646CFF&suffix=%25" alt="90%" />
     </td>
-    <td align="center" style="padding: 6px;">
+    <td align="center" style="padding:6px; min-width:90px;">
       <img src="https://skillicons.dev/icons?i=docker" width="50" height="50" />
       <br><strong>Docker</strong>
       <br><img src="https://progress-bar.dev/80/?scale=100&width=75&color=2496ED&suffix=%25" alt="80%" />
@@ -322,53 +326,53 @@
 </table>
 
 <table align="center">
-  <tr style="display:flex; flex-wrap:wrap; justify-content:center; align-items:center;">
-    <td align="center" style="padding: 5px;">
+  <tr style="display:flex; flex-wrap:wrap; justify-content:center; align-items:center; gap:5px;">
+    <td align="center" style="padding:5px; min-width:75px;">
       <img src="https://skillicons.dev/icons?i=cpp" width="45" height="45" />
       <br><small><strong>C++</strong></small>
       <br><img src="https://progress-bar.dev/75/?scale=100&width=60&color=00599C&suffix=%25" alt="75%" />
     </td>
-    <td align="center" style="padding: 5px;">
+    <td align="center" style="padding:5px; min-width:75px;">
       <img src="https://skillicons.dev/icons?i=java" width="45" height="45" />
       <br><small><strong>Java</strong></small>
       <br><img src="https://progress-bar.dev/75/?scale=100&width=60&color=ef476f&suffix=%25" alt="75%" />
     </td>
-    <td align="center" style="padding: 5px;">
+    <td align="center" style="padding:5px; min-width:75px;">
       <img src="https://skillicons.dev/icons?i=html" width="45" height="45" />
       <br><small><strong>HTML5</strong></small>
       <br><img src="https://progress-bar.dev/95/?scale=100&width=60&color=FF7043&suffix=%25" alt="95%" />
     </td>
-    <td align="center" style="padding: 5px;">
+    <td align="center" style="padding:5px; min-width:75px;">
       <img src="https://skillicons.dev/icons?i=css" width="45" height="45" />
       <br><small><strong>CSS3</strong></small>
       <br><img src="https://progress-bar.dev/95/?scale=100&width=60&color=1976D2&suffix=%25" alt="95%" />
     </td>
-    <td align="center" style="padding: 5px;">
+    <td align="center" style="padding:5px; min-width:75px;">
       <img src="https://skillicons.dev/icons?i=c" width="45" height="45" />
       <br><small><strong>C</strong></small>
       <br><img src="https://progress-bar.dev/70/?scale=100&width=60&color=264653&suffix=%25" alt="70%" />
     </td>
-    <td align="center" style="padding: 5px;">
+    <td align="center" style="padding:5px; min-width:75px;">
       <img src="https://skillicons.dev/icons?i=materialui" width="45" height="45" />
       <br><small><strong>MUI</strong></small>
       <br><img src="https://progress-bar.dev/85/?scale=100&width=60&color=007FFF&suffix=%25" alt="85%" />
     </td>
-    <td align="center" style="padding: 5px;">
+    <td align="center" style="padding:5px; min-width:75px;">
       <img src="https://skillicons.dev/icons?i=bootstrap" width="45" height="45" />
       <br><small><strong>Bootstrap</strong></small>
       <br><img src="https://progress-bar.dev/90/?scale=100&width=60&color=7952B3&suffix=%25" alt="90%" />
     </td>
-    <td align="center" style="padding: 5px;">
+    <td align="center" style="padding:5px; min-width:75px;">
       <img src="https://skillicons.dev/icons?i=kubernetes" width="45" height="45" />
       <br><small><strong>K8s</strong></small>
       <br><img src="https://progress-bar.dev/70/?scale=100&width=60&color=326CE5&suffix=%25" alt="70%" />
     </td>
-    <td align="center" style="padding: 5px;">
+    <td align="center" style="padding:5px; min-width:75px;">
       <img src="https://skillicons.dev/icons?i=nginx" width="45" height="45" />
       <br><small><strong>Nginx</strong></small>
       <br><img src="https://progress-bar.dev/75/?scale=100&width=60&color=009639&suffix=%25" alt="75%" />
     </td>
-    <td align="center" style="padding: 5px;">
+    <td align="center" style="padding:5px; min-width:75px;">
       <img src="https://skillicons.dev/icons?i=webpack" width="45" height="45" />
       <br><small><strong>Webpack</strong></small>
       <br><img src="https://progress-bar.dev/80/?scale=100&width=60&color=8DD6F9&suffix=%25" alt="80%" />
@@ -395,7 +399,7 @@
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,notion,windows,slack,apple,discord,linux,docker,vercel,aws,gcp" height="50" />
 
-<br>
+<br><br>
 
 <!-- State Management & APIs -->
 <table width="100%">
@@ -411,23 +415,23 @@
 </table>
 
 <table align="center">
-  <tr>
-    <td align="center" style="padding: 8px;">
+  <tr style="display:flex; flex-wrap:wrap; justify-content:center; align-items:center; gap:10px;">
+    <td align="center" style="padding:8px; min-width:100px;">
       <img src="https://skillicons.dev/icons?i=redux" width="55" height="55" />
       <br><strong>Redux</strong>
       <br><sub>Global State</sub>
     </td>
-    <td align="center" style="padding: 8px;">
-      <img src="https://raw.githubusercontent.com/pmndrs/zustand/main/docs/bear.jpg" width="55" height="55" style="border-radius: 50%;" />
+    <td align="center" style="padding:8px; min-width:100px;">
+      <img src="https://raw.githubusercontent.com/pmndrs/zustand/main/docs/bear.jpg" width="55" height="55" style="border-radius:50%;" />
       <br><strong>Zustand</strong>
       <br><sub>Lightweight State</sub>
     </td>
-    <td align="center" style="padding: 8px;">
+    <td align="center" style="padding:8px; min-width:100px;">
       <img src="https://raw.githubusercontent.com/TanStack/query/main/media/emblem-light.svg" width="55" height="55" />
       <br><strong>TanStack</strong>
       <br><sub>Server State</sub>
     </td>
-    <td align="center" style="padding: 8px;">
+    <td align="center" style="padding:8px; min-width:100px;">
       <img src="https://user-images.githubusercontent.com/8939680/57233882-20344080-6fe5-11e9-8df3-0df1282e1574.png" width="55" height="55" />
       <br><strong>REST API</strong>
       <br><sub>API Design</sub>
@@ -450,23 +454,34 @@
   </tr>
 </table>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mreshank&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C3D1D9&icon_color=58A6FF" height="180" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mreshank&theme=tokyonight" />
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mreshank&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C3D1D9&icon_color=58A6FF" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mreshank&layout=compact&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mreshank&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C3D1D9&icon_color=58A6FF" height="180" alt="Top Languages" />
+</picture>
+
+<br />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mreshank&theme=tokyonight" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mreshank&theme=default" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mreshank&theme=tokyonight" alt="Profile Details" />
+</picture>
 
 <br>
 
 <!-- Animated Tech Icons Banner -->
-<div align="center">
-  <h3>
-    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2I3ZmRkOHI3aThvcHBleGtkbzV6Y3JjajBwOHR3YWVkMmp2aXF4ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fwbZnTftCXVocKzfxR/giphy.gif" width="25" />
-    <strong>🔥 CURRENT FOCUS</strong>
-    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2I3ZmRkOHI3aThvcHBleGtkbzV6Y3JjajBwOHR3YWVkMmp2aXF4ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fwbZnTftCXVocKzfxR/giphy.gif" width="25" />
-  </h3>
-</div>
-
-<div align="center">
+<table width="100%">
+  <tr>
+    <td align="center">
+      <h3>
+        <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2I3ZmRkOHI3aThvcHBleGtkbzV6Y3JjajBwOHR3YWVkMmp2aXF4ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fwbZnTftCXVocKzfxR/giphy.gif" width="25" />
+        <strong>🔥 CURRENT FOCUS</strong>
+        <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2I3ZmRkOHI3aThvcHBleGtkbzV6Y3JjajBwOHR3YWVkMmp2aXF4ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fwbZnTftCXVocKzfxR/giphy.gif" width="25" />
+      </h3>
+    </td>
+  </tr>
+</table>
 
 ```typescript
 const currentStack = {
@@ -478,27 +493,27 @@ const currentStack = {
 };
 ```
 
-</div>
-
 <!-- Activity Graph -->
-<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=mreshank&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C3D1D9&area=true&area_color=58A6FF" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=mreshank&hide_border=true" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mreshank&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C3D1D9&area=true&area_color=58A6FF" alt="Activity Graph" />
-</div>
+</picture>
 
 <br>
 
 <!-- Interactive Achievement Badges -->
-<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=mreshank&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=mreshank&no-frame=true&column=7&margin-w=10&margin-h=10" />
   <img src="https://github-profile-trophy.vercel.app/?username=mreshank&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="Trophies" />
-</div>
+</picture>
 
 </div>
 
 <br />
 
----
-
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <br />
 
@@ -518,34 +533,61 @@ const currentStack = {
 </table>
 
 <!-- Enhanced Stats Cards -->
-<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=mreshank&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C3D1D9&icon_color=58A6FF&hide_rank=false&include_all_commits=true&count_private=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=mreshank&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" />
   <img src="https://github-readme-stats.vercel.app/api?username=mreshank&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C3D1D9&icon_color=58A6FF&hide_rank=false&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=mreshank&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=C3D1D9" height="180" alt="GitHub Streak" />
-</div>
+</picture>
 
-<br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=mreshank&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=C3D1D9" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=mreshank&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=mreshank&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=C3D1D9" height="180" alt="GitHub Streak" />
+</picture>
+
+<br><br>
 
 <!-- Contribution Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mreshank&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C3D1D9&area=true&area_color=58A6FF" width="95%" alt="Contribution Graph" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=mreshank&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C3D1D9&area=true&area_color=58A6FF" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=mreshank&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mreshank&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C3D1D9&area=true&area_color=58A6FF" width="95%" alt="Contribution Graph" />
+</picture>
 
 <br>
 
 <!-- Dynamic Coding Stats -->
-<table align="center">
+<table align="center" style="border:none;">
   <tr>
-    <td align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mreshank&theme=tokyonight&utcOffset=5.5" alt="Productive Time" width="100%" />
+    <td align="center" style="border:none;">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mreshank&theme=tokyonight&utcOffset=5.5" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mreshank&theme=default&utcOffset=5.5" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mreshank&theme=tokyonight&utcOffset=5.5" alt="Productive Time" />
+      </picture>
     </td>
-    <td align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mreshank&theme=tokyonight" alt="Repos per Language" width="100%" />
+    <td align="center" style="border:none;">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mreshank&theme=tokyonight" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mreshank&theme=default" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mreshank&theme=tokyonight" alt="Repos per Language" />
+      </picture>
     </td>
   </tr>
   <tr>
-    <td align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mreshank&theme=tokyonight" alt="Most Commit Language" width="100%" />
+    <td align="center" style="border:none;">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mreshank&theme=tokyonight" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mreshank&theme=default" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mreshank&theme=tokyonight" alt="Most Commit Language" />
+      </picture>
     </td>
-    <td align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mreshank&theme=tokyonight" alt="Stats" width="100%" />
+    <td align="center" style="border:none;">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mreshank&theme=tokyonight" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mreshank&theme=default" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mreshank&theme=tokyonight" alt="Stats" />
+      </picture>
     </td>
   </tr>
 </table>
@@ -554,13 +596,11 @@ const currentStack = {
 
 <br />
 
----
-
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <br />
 
-<!-- Social Connect Section -->
+<!-- Social Connect Section - Fully Responsive -->
 <div align="center">
 
 <table width="100%">
@@ -575,54 +615,54 @@ const currentStack = {
   </tr>
 </table>
 
-<!-- Enhanced Social Badges -->
+<!-- Enhanced Social Badges - Fully Responsive -->
 <table align="center">
-  <tr>
-    <td align="center" style="padding: 10px;">
+  <tr style="display:flex; flex-wrap:wrap; justify-content:center; align-items:center; gap:10px;">
+    <td align="center" style="padding:10px; min-width:120px;">
       <a href="https://www.linkedin.com/in/mreshank" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="LinkedIn" />
       </a>
       <br><sub><b>2K+ Connections</b></sub>
     </td>
-    <td align="center" style="padding: 10px;">
+    <td align="center" style="padding:10px; min-width:120px;">
       <a href="https://www.youtube.com/@mreshanktyagi" target="_blank">
         <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="35" alt="YouTube" />
       </a>
       <br><sub><b>Tech Tutorials</b></sub>
     </td>
-    <td align="center" style="padding: 10px;">
+    <td align="center" style="padding:10px; min-width:120px;">
 <a href="https://twitter.com/mreshanktyagi" target="_blank">
         <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" height="35" alt="Twitter" />
       </a>
       <br><sub><b>Dev Updates</b></sub>
     </td>
-    <td align="center" style="padding: 10px;">
+    <td align="center" style="padding:10px; min-width:120px;">
       <a href="https://instagram.com/mreshank" target="_blank">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="35" alt="Instagram" />
       </a>
       <br><sub><b>Life & Code</b></sub>
     </td>
   </tr>
-  <tr>
-    <td align="center" style="padding: 10px;">
+  <tr style="display:flex; flex-wrap:wrap; justify-content:center; align-items:center; gap:10px;">
+    <td align="center" style="padding:10px; min-width:120px;">
 <a href="https://discord.com/users/mreshank" target="_blank">
         <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" height="35" alt="Discord" />
 </a>
       <br><sub><b>Community</b></sub>
     </td>
-    <td align="center" style="padding: 10px;">
+    <td align="center" style="padding:10px; min-width:120px;">
 <a href="https://www.eshank.tech" target="_blank">
         <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" height="35" alt="Website" />
       </a>
       <br><sub><b>My Work</b></sub>
     </td>
-    <td align="center" style="padding: 10px;">
+    <td align="center" style="padding:10px; min-width:120px;">
       <a href="mailto:contact@eshank.tech">
         <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" alt="Email" />
       </a>
       <br><sub><b>Get in Touch</b></sub>
     </td>
-    <td align="center" style="padding: 10px;">
+    <td align="center" style="padding:10px; min-width:120px;">
       <a href="https://github.com/mreshank" target="_blank">
         <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="35" alt="GitHub" />
       </a>
@@ -641,13 +681,11 @@ const currentStack = {
 
 <br />
 
----
-
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <br />
 
-<!-- Random Fact Section -->
+<!-- The Vibe Check Section -->
 <div align="center">
 
 <table width="100%">
@@ -677,30 +715,30 @@ const currentStack = {
 
 <br>
 
-<!-- Fun Stats Boxes -->
+<!-- Fun Stats Boxes - Fully Responsive -->
 <table align="center">
-  <tr style="display:flex; flex-wrap:wrap; justify-content:center; align-items:center;">
-    <td align="center" style="padding: 15px;">
+  <tr style="display:flex; flex-wrap:wrap; justify-content:center; align-items:center; gap:15px;">
+    <td align="center" style="padding:15px; min-width:120px;">
       <img src="https://media.giphy.com/media/13CoXDiaCcCoyk/giphy.gif" height="70" /><br>
       <b>🎯 Focus Mode</b><br>
       <sub>Dark theme only</sub>
     </td>
-    <td align="center" style="padding: 15px;">
+    <td align="center" style="padding:15px; min-width:120px;">
       <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" height="70" /><br>
       <b>☕ Coffee Count</b><br>
       <sub>∞ cups/day</sub>
     </td>
-    <td align="center" style="padding: 15px;">
+    <td align="center" style="padding:15px; min-width:120px;">
       <img src="https://media4.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" height="70" /><br>
       <b>🥁 Side Quest</b><br>
       <sub>Drumming beats</sub>
     </td>
-    <td align="center" style="padding: 15px;">
+    <td align="center" style="padding:15px; min-width:120px;">
       <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" height="70" /><br>
       <b>🌙 Peak Hours</b><br>
       <sub>10 PM - 4 AM</sub>
     </td>
-    <td align="center" style="padding: 15px;">
+    <td align="center" style="padding:15px; min-width:120px;">
       <img src="https://i.giphy.com/5HPUYijRDK3gRpMKXw.webp" height="70" /><br>
       <b>🎵 Playlist</b><br>
       <sub>Lo-fi + Reverb</sub>
@@ -711,15 +749,13 @@ const currentStack = {
 <br>
 
 <!-- Quote Box -->
-<table align="center" width="80%">
+<table align="center" width="85%">
   <tr>
-    <td align="center" style="padding: 20px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);">
-      <h3 style="color: white;">
-        <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTk0YjN5dHVnb2RmOGFxd2RzbGYzMXVvNTRsNjUyenVpcjJjcjdweSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/SS8CV2rQdlYNLtBCiF/giphy.gif" width="25" />
-        <i>"Code is like humor. When you have to explain it, it's bad."</i>
-        <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTk0YjN5dHVnb2RmOGFxd2RzbGYzMXVvNTRsNjUyenVpcjJjcjdweSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/SS8CV2rQdlYNLtBCiF/giphy.gif" width="25" />
-</h3>
-      <sub style="color: #E0E0E0;">- Cory House</sub>
+    <td align="center" style="padding:20px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);">
+      <!-- <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTk0YjN5dHVnb2RmOGFxd2RzbGYzMXVvNTRsNjUyenVpcjJjcjdweSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/SS8CV2rQdlYNLtBCiF/giphy.gif" width="25" /> -->
+      <h3><i>"Code is like humor. When you have to explain it, it's bad."</i></h3>
+      <sub>- Cory House</sub>
+      <!-- <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTk0YjN5dHVnb2RmOGFxd2RzbGYzMXVvNTRsNjUyenVpcjJjcjdweSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/SS8CV2rQdlYNLtBCiF/giphy.gif" width="25" /> -->
     </td>
   </tr>
 </table>
@@ -728,6 +764,10 @@ const currentStack = {
 
 <br />
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
+</div>
 
 ---

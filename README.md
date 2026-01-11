@@ -208,7 +208,7 @@
     <td align="center">
       <h3>
         <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bef9qgmt3p0gb03f4rck3rr8pqp5vpxl1&rid=giphy.gif&ct=s" width="28" style="vertical-align:middle;" />
-        <strong>⚡ EXPERT LEVEL</strong>
+        <strong>EXPERT LEVEL</strong>
         <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bef9qgmt3p0gb03f4rck3rr8pqp5vpxl1&rid=giphy.gif&ct=s" width="28" style="vertical-align:middle;" />
       </h3>
     </td>
@@ -258,7 +258,7 @@
     <td align="center">
       <h3>
         <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="25" style="vertical-align:middle;" />
-        <strong>🚀 ADVANCED LEVEL</strong>
+        <strong>ADVANCED LEVEL</strong>
         <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="25" style="vertical-align:middle;" />
       </h3>
     </td>
@@ -318,7 +318,7 @@
     <td align="center">
       <h3>
         <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3k3NjN3OWJxbXB3bWdteWJ6Y2gzY3E3aWRqaGRrZHB6emJ5cHM1cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/SWVzkIGJlnVUuSZl4K/giphy.gif" width="25" style="vertical-align:middle;" />
-        <strong>💪 PROFICIENT LEVEL</strong>
+        <strong>PROFICIENT LEVEL</strong>
         <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3k3NjN3OWJxbXB3bWdteWJ6Y2gzY3E3aWRqaGRrZHB6emJ5cHM1cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/SWVzkIGJlnVUuSZl4K/giphy.gif" width="25" style="vertical-align:middle;" />
       </h3>
     </td>
@@ -388,7 +388,7 @@
     <td align="center">
       <h3>
         <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="25" style="vertical-align:middle;" />
-        <strong>🛠️ TOOLS & PLATFORMS</strong>
+        <strong>TOOLS & PLATFORMS</strong>
         <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="25" style="vertical-align:middle;" />
       </h3>
     </td>
@@ -407,7 +407,7 @@
     <td align="center">
       <h3>
         <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmtxZzhrYjQwbW04aXc5ZGVxd3U3cGowbnpxNzFkbWgyYmQ1Y2x2ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kdQuQ2jmMFUOA0mI4I/giphy.gif" width="28" style="vertical-align:middle;" />
-        <strong>📦 STATE & DATA</strong>
+        <strong>STATE & DATA</strong>
         <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmtxZzhrYjQwbW04aXc5ZGVxd3U3cGowbnpxNzFkbWgyYmQ1Y2x2ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kdQuQ2jmMFUOA0mI4I/giphy.gif" width="28" style="vertical-align:middle;" />
       </h3>
     </td>
@@ -447,7 +447,7 @@
     <td align="center">
       <h3>
         <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGtkN3R5cmlvNG80bjRxYzF0OGc0ZTV5Ym1rZzhrM2RlbWMwZG96NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/lP8xu5t2DLGG045H8F/giphy.gif" width="28" style="vertical-align:middle;" />
-        <strong>📊 LIVE STATS</strong>
+        <strong>LIVE STATS</strong>
         <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGtkN3R5cmlvNG80bjRxYzF0OGc0ZTV5Ym1rZzhrM2RlbWMwZG96NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/lP8xu5t2DLGG045H8F/giphy.gif" width="28" style="vertical-align:middle;" />
       </h3>
     </td>

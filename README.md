@@ -476,7 +476,7 @@
     <td align="center">
       <h3>
         <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2I3ZmRkOHI3aThvcHBleGtkbzV6Y3JjajBwOHR3YWVkMmp2aXF4ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fwbZnTftCXVocKzfxR/giphy.gif" width="25" />
-        <strong>🔥 CURRENT FOCUS</strong>
+        <strong>CURRENT FOCUS</strong>
         <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2I3ZmRkOHI3aThvcHBleGtkbzV6Y3JjajBwOHR3YWVkMmp2aXF4ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fwbZnTftCXVocKzfxR/giphy.gif" width="25" />
       </h3>
     </td>

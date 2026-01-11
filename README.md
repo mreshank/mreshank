@@ -72,7 +72,7 @@
         <p align="left">
           <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjJucGl4dzNxdTJteGpyd2I3eGIxbWlrbXRuMHR1cnRzYXQ1am9vZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/XcR5EzmXLEaKk2YROn/giphy.gif" width="18" />
           <b>Career Progression:</b><br>
-          <code>Intern → Developer → Senior → Lead</code><br>
+          <code>Intern → Developer → Senior → Lead → Founding Eng'r</code><br>
           <sub>⏱️ Timeline: <b>&lt; 2 years</b> (wait, what?! 🤯)</sub>
         </p>
         <p align="left">

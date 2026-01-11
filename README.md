@@ -622,7 +622,7 @@ const currentStack = {
       <a href="https://www.linkedin.com/in/mreshank" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="LinkedIn" />
       </a>
-      <br><sub><b>2K+ Connections</b></sub>
+      <br><sub><b>10K+ Followers</b></sub>
     </td>
     <td align="center" style="padding:10px; min-width:120px;">
       <a href="https://www.youtube.com/@mreshanktyagi" target="_blank">

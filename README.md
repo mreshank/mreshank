@@ -704,11 +704,12 @@ const currentStack = {
 <table align="center" width="90%">
   <tr>
     <td align="center">
-      <h3>💭 My Coding Ritual</h3>
+      <p>Shhhhhhhhhhh...</p>
+      <!-- <h3>💭 My Coding Ritual</h3>
       <p>
         I code faster when I'm blasting <b>slowed + reverb tracks</b> 🎧 at max volume in a dark room. 🌙<br>
         <code>Music + Caffeine + GitHub Commits = My Therapy</code> ☕💻
-      </p>
+      </p> -->
     </td>
   </tr>
 </table>

@@ -220,32 +220,32 @@
     <td align="center" style="padding:8px; min-width:100px;">
       <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="60" height="60" />
       <br><strong>React</strong>
-      <br><img src="https://progress-bar.dev/95/?scale=100&width=80&color=00BCD4&suffix=%25" alt="95%" />
+      <!-- <br><img src="https://progress-bar.dev/95/?scale=100&width=80&color=00BCD4&suffix=%25" alt="95%" /> -->
     </td>
     <td align="center" style="padding:8px; min-width:100px;">
       <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="60" height="60" />
       <br><strong>JavaScript</strong>
-      <br><img src="https://progress-bar.dev/95/?scale=100&width=80&color=f7b32b&suffix=%25" alt="95%" />
+      <!-- <br><img src="https://progress-bar.dev/95/?scale=100&width=80&color=f7b32b&suffix=%25" alt="95%" /> -->
     </td>
     <td align="center" style="padding:8px; min-width:100px;">
       <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="60" height="60" />
       <br><strong>TypeScript</strong>
-      <br><img src="https://progress-bar.dev/90/?scale=100&width=80&color=3178c6&suffix=%25" alt="90%" />
+      <!-- <br><img src="https://progress-bar.dev/90/?scale=100&width=80&color=3178c6&suffix=%25" alt="90%" /> -->
     </td>
     <td align="center" style="padding:8px; min-width:100px;">
       <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="60" height="60" />
       <br><strong>Next.js</strong>
-      <br><img src="https://progress-bar.dev/95/?scale=100&width=80&color=000000&suffix=%25" alt="95%" />
+      <!-- <br><img src="https://progress-bar.dev/95/?scale=100&width=80&color=000000&suffix=%25" alt="95%" /> -->
     </td>
     <td align="center" style="padding:8px; min-width:100px;">
       <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="60" height="60" />
       <br><strong>Node.js</strong>
-      <br><img src="https://progress-bar.dev/90/?scale=100&width=80&color=43A047&suffix=%25" alt="90%" />
+      <!-- <br><img src="https://progress-bar.dev/90/?scale=100&width=80&color=43A047&suffix=%25" alt="90%" /> -->
     </td>
     <td align="center" style="padding:8px; min-width:100px;">
       <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" width="60" height="60" />
       <br><strong>Tailwind</strong>
-      <br><img src="https://progress-bar.dev/95/?scale=100&width=80&color=38B2AC&suffix=%25" alt="95%" />
+      <!-- <br><img src="https://progress-bar.dev/95/?scale=100&width=80&color=38B2AC&suffix=%25" alt="95%" /> -->
     </td>
   </tr>
 </table>
@@ -270,42 +270,42 @@
     <td align="center" style="padding:6px; min-width:90px;">
       <img src="https://skillicons.dev/icons?i=python" width="50" height="50" />
       <br><strong>Python</strong>
-      <br><img src="https://progress-bar.dev/85/?scale=100&width=75&color=2a9d8f&suffix=%25" alt="85%" />
+      <!-- <br><img src="https://progress-bar.dev/85/?scale=100&width=75&color=2a9d8f&suffix=%25" alt="85%" /> -->
     </td>
     <td align="center" style="padding:6px; min-width:90px;">
       <img src="https://skillicons.dev/icons?i=mongodb" width="50" height="50" />
       <br><strong>MongoDB</strong>
-      <br><img src="https://progress-bar.dev/85/?scale=100&width=75&color=4EA94B&suffix=%25" alt="85%" />
+      <!-- <br><img src="https://progress-bar.dev/85/?scale=100&width=75&color=4EA94B&suffix=%25" alt="85%" /> -->
     </td>
     <td align="center" style="padding:6px; min-width:90px;">
       <img src="https://skillicons.dev/icons?i=redux" width="50" height="50" />
       <br><strong>Redux</strong>
-      <br><img src="https://progress-bar.dev/85/?scale=100&width=75&color=764ABC&suffix=%25" alt="85%" />
+      <!-- <br><img src="https://progress-bar.dev/85/?scale=100&width=75&color=764ABC&suffix=%25" alt="85%" /> -->
     </td>
     <td align="center" style="padding:6px; min-width:90px;">
       <img src="https://skillicons.dev/icons?i=express" width="50" height="50" />
       <br><strong>Express</strong>
-      <br><img src="https://progress-bar.dev/85/?scale=100&width=75&color=000000&suffix=%25" alt="85%" />
+      <!-- <br><img src="https://progress-bar.dev/85/?scale=100&width=75&color=000000&suffix=%25" alt="85%" /> -->
     </td>
     <td align="center" style="padding:6px; min-width:90px;">
       <img src="https://skillicons.dev/icons?i=firebase" width="50" height="50" />
       <br><strong>Firebase</strong>
-      <br><img src="https://progress-bar.dev/85/?scale=100&width=75&color=FFB300&suffix=%25" alt="85%" />
+      <!-- <br><img src="https://progress-bar.dev/85/?scale=100&width=75&color=FFB300&suffix=%25" alt="85%" /> -->
     </td>
     <td align="center" style="padding:6px; min-width:90px;">
       <img src="https://skillicons.dev/icons?i=supabase" width="50" height="50" />
       <br><strong>Supabase</strong>
-      <br><img src="https://progress-bar.dev/80/?scale=100&width=75&color=3ECF8E&suffix=%25" alt="80%" />
+      <!-- <br><img src="https://progress-bar.dev/80/?scale=100&width=75&color=3ECF8E&suffix=%25" alt="80%" /> -->
     </td>
     <td align="center" style="padding:6px; min-width:90px;">
       <img src="https://skillicons.dev/icons?i=vite" width="50" height="50" />
       <br><strong>Vite</strong>
-      <br><img src="https://progress-bar.dev/90/?scale=100&width=75&color=646CFF&suffix=%25" alt="90%" />
+      <!-- <br><img src="https://progress-bar.dev/90/?scale=100&width=75&color=646CFF&suffix=%25" alt="90%" /> -->
     </td>
     <td align="center" style="padding:6px; min-width:90px;">
       <img src="https://skillicons.dev/icons?i=docker" width="50" height="50" />
       <br><strong>Docker</strong>
-      <br><img src="https://progress-bar.dev/80/?scale=100&width=75&color=2496ED&suffix=%25" alt="80%" />
+      <!-- <br><img src="https://progress-bar.dev/80/?scale=100&width=75&color=2496ED&suffix=%25" alt="80%" /> -->
     </td>
   </tr>
 </table>
@@ -330,52 +330,52 @@
     <td align="center" style="padding:5px; min-width:75px;">
       <img src="https://skillicons.dev/icons?i=cpp" width="45" height="45" />
       <br><small><strong>C++</strong></small>
-      <br><img src="https://progress-bar.dev/75/?scale=100&width=60&color=00599C&suffix=%25" alt="75%" />
+      <!-- <br><img src="https://progress-bar.dev/75/?scale=100&width=60&color=00599C&suffix=%25" alt="75%" /> -->
     </td>
     <td align="center" style="padding:5px; min-width:75px;">
       <img src="https://skillicons.dev/icons?i=java" width="45" height="45" />
       <br><small><strong>Java</strong></small>
-      <br><img src="https://progress-bar.dev/75/?scale=100&width=60&color=ef476f&suffix=%25" alt="75%" />
+      <!-- <br><img src="https://progress-bar.dev/75/?scale=100&width=60&color=ef476f&suffix=%25" alt="75%" /> -->
     </td>
     <td align="center" style="padding:5px; min-width:75px;">
       <img src="https://skillicons.dev/icons?i=html" width="45" height="45" />
       <br><small><strong>HTML5</strong></small>
-      <br><img src="https://progress-bar.dev/95/?scale=100&width=60&color=FF7043&suffix=%25" alt="95%" />
+      <!-- <br><img src="https://progress-bar.dev/95/?scale=100&width=60&color=FF7043&suffix=%25" alt="95%" /> -->
     </td>
     <td align="center" style="padding:5px; min-width:75px;">
       <img src="https://skillicons.dev/icons?i=css" width="45" height="45" />
       <br><small><strong>CSS3</strong></small>
-      <br><img src="https://progress-bar.dev/95/?scale=100&width=60&color=1976D2&suffix=%25" alt="95%" />
+      <!-- <br><img src="https://progress-bar.dev/95/?scale=100&width=60&color=1976D2&suffix=%25" alt="95%" /> -->
     </td>
     <td align="center" style="padding:5px; min-width:75px;">
       <img src="https://skillicons.dev/icons?i=c" width="45" height="45" />
       <br><small><strong>C</strong></small>
-      <br><img src="https://progress-bar.dev/70/?scale=100&width=60&color=264653&suffix=%25" alt="70%" />
+      <!-- <br><img src="https://progress-bar.dev/70/?scale=100&width=60&color=264653&suffix=%25" alt="70%" /> -->
     </td>
     <td align="center" style="padding:5px; min-width:75px;">
       <img src="https://skillicons.dev/icons?i=materialui" width="45" height="45" />
       <br><small><strong>MUI</strong></small>
-      <br><img src="https://progress-bar.dev/85/?scale=100&width=60&color=007FFF&suffix=%25" alt="85%" />
+      <!-- <br><img src="https://progress-bar.dev/85/?scale=100&width=60&color=007FFF&suffix=%25" alt="85%" /> -->
     </td>
     <td align="center" style="padding:5px; min-width:75px;">
       <img src="https://skillicons.dev/icons?i=bootstrap" width="45" height="45" />
       <br><small><strong>Bootstrap</strong></small>
-      <br><img src="https://progress-bar.dev/90/?scale=100&width=60&color=7952B3&suffix=%25" alt="90%" />
+      <!-- <br><img src="https://progress-bar.dev/90/?scale=100&width=60&color=7952B3&suffix=%25" alt="90%" /> -->
     </td>
     <td align="center" style="padding:5px; min-width:75px;">
       <img src="https://skillicons.dev/icons?i=kubernetes" width="45" height="45" />
       <br><small><strong>K8s</strong></small>
-      <br><img src="https://progress-bar.dev/70/?scale=100&width=60&color=326CE5&suffix=%25" alt="70%" />
+      <!-- <br><img src="https://progress-bar.dev/70/?scale=100&width=60&color=326CE5&suffix=%25" alt="70%" /> -->
     </td>
     <td align="center" style="padding:5px; min-width:75px;">
       <img src="https://skillicons.dev/icons?i=nginx" width="45" height="45" />
       <br><small><strong>Nginx</strong></small>
-      <br><img src="https://progress-bar.dev/75/?scale=100&width=60&color=009639&suffix=%25" alt="75%" />
+      <!-- <br><img src="https://progress-bar.dev/75/?scale=100&width=60&color=009639&suffix=%25" alt="75%" /> -->
     </td>
     <td align="center" style="padding:5px; min-width:75px;">
       <img src="https://skillicons.dev/icons?i=webpack" width="45" height="45" />
       <br><small><strong>Webpack</strong></small>
-      <br><img src="https://progress-bar.dev/80/?scale=100&width=60&color=8DD6F9&suffix=%25" alt="80%" />
+      <!-- <br><img src="https://progress-bar.dev/80/?scale=100&width=60&color=8DD6F9&suffix=%25" alt="80%" /> -->
     </td>
   </tr>
 </table>

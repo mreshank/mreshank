@@ -651,13 +651,13 @@ const currentStack = {
       <br><sub><b>Community</b></sub>
     </td>
     <td align="center" style="padding:10px; min-width:120px;">
-<a href="https://www.eshank.tech" target="_blank">
+<a href="https://www.mreshank.com" target="_blank">
         <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" height="35" alt="Website" />
       </a>
       <br><sub><b>My Work</b></sub>
     </td>
     <td align="center" style="padding:10px; min-width:120px;">
-      <a href="mailto:contact@eshank.tech">
+      <a href="mailto:contact@mreshank.com">
         <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" alt="Email" />
       </a>
       <br><sub><b>Get in Touch</b></sub>

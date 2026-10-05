@@ -13,6 +13,7 @@
     <a href="https://www.linkedin.com/in/mreshank/"><img src="https://img.shields.io/badge/LinkedIn-Eshank%20Tyagi-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="https://matters.ai"><img src="https://img.shields.io/badge/Founding%20Engineer-Matters.AI-6366F1?style=flat-square&logo=databricks&logoColor=white" alt="Matters.AI" /></a>
     <a href="https://x.com/mreshanktyagi"><img src="https://img.shields.io/badge/X-@mreshanktyagi-000000?style=flat-square&logo=x&logoColor=white" alt="Twitter/X" /></a>
+    <a href="https://instagram.com/mreshank"><img src="https://img.shields.io/badge/Instagram-@mreshank-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
     <a href="https://chromewebstore.google.com/detail/convrtr/pgoadfnhcalnheeepcbngchmhlkgboal"><img src="https://img.shields.io/badge/Chrome%20Store-convrtr-4285F4?style=flat-square&logo=googlechrome&logoColor=white" alt="Chrome Store" /></a>
     <a href="https://www.npmjs.com/~mreshank"><img src="https://img.shields.io/badge/npm-@mreshank-CB3837?style=flat-square&logo=npm&logoColor=white" alt="npm" /></a>
     <a href="mailto:contact@mreshank.com"><img src="https://img.shields.io/badge/Email-contact@mreshank.com-10B981?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
@@ -21,7 +22,7 @@
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=mreshank&style=flat-square&color=70a5fd&label=PROFILE+VIEWS" alt="Profile Views" />
     <img src="https://img.shields.io/github/followers/mreshank?style=flat-square&logo=github&color=1a1b26" alt="Followers" />
-    <img src="https://img.shields.io/badge/Location-Dehradun%2C%20India-7aa2f7?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
+    <img src="https://img.shields.io/badge/Location-India-7aa2f7?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
     <img src="https://img.shields.io/badge/Focus-Local--First%20%7C%20WASM%20%7C%20Enterprise%20AI-38bdae?style=flat-square" alt="Focus" />
   </p>
 </div>
@@ -330,9 +331,10 @@
       </ul>
     </td>
     <td width="50%" valign="top">
-      <p align="left"><b>⚡ Open Source & Ecosystem</b></p>
+      <p align="left"><b>⚡ Social, Open Source & Ecosystem</b></p>
       <ul align="left">
         <li><b>GitHub</b>: <a href="https://github.com/mreshank"><code>@mreshank</code></a> — Codebases, WASM instruments & OSS</li>
+        <li><b>Instagram</b>: <a href="https://instagram.com/mreshank"><code>@mreshank</code></a> — Visual updates, dev life & behind the scenes</li>
         <li><b>X (Twitter)</b>: <a href="https://x.com/mreshanktyagi"><code>@mreshanktyagi</code></a> — Systems engineering thoughts & dev drops</li>
         <li><b>YouTube</b>: <a href="https://www.youtube.com/@mreshanktyagi"><code>@mreshanktyagi</code></a> — Technical breakdowns & deep dives</li>
         <li><b>Chrome Web Store</b>: <a href="https://chromewebstore.google.com/detail/convrtr/pgoadfnhcalnheeepcbngchmhlkgboal"><code>convrtr</code></a> — Production browser extension</li>
@@ -347,6 +349,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/mreshank/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://mreshank.com"><img src="https://img.shields.io/badge/Portfolio-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://instagram.com/mreshank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="https://x.com/mreshanktyagi"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
   <a href="https://www.youtube.com/@mreshanktyagi"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
   <a href="mailto:contact@mreshank.com"><img src="https://img.shields.io/badge/Email-10B981?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>

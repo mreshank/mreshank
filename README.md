@@ -3,16 +3,17 @@
 
 ![header](https://user-images.githubusercontent.com/121122397/216614878-411f6178-defa-4330-ba48-16db1cc92830.png)
 
-<h1 align="center">
+<h3 align="center">
   <a href="https://mreshank.com" title="Eshank Tyagi (MrEshank) — Official Portfolio & Systems">
-    <img src="https://readme-typing-svg.demolab.com?font=DM+Sans&weight=900&size=48&duration=1000&pause=10000&color=70A5FD&center=true&vCenter=true&width=750&height=70&lines=MrEshank;Eshank%20Tyagi" alt="Eshank Tyagi (MrEshank) — Founding Full-Stack Engineer, Web Systems & WebAssembly Architect" />
+    <img src="https://readme-typing-svg.demolab.com?font=DM+Sans&weight=900&size=48&duration=1000&pause=10000&color=70A5FD&center=true&vCenter=true&width=850&height=70&lines=MrEshank;Eshank%20Tyagi" alt="Eshank Tyagi (MrEshank) — Founding Full-Stack Engineer, Web Systems & WebAssembly Architect" />
   </a>
-</h1>
-
+</h3>
   <!-- Animated Typing Subtitle -->
   <a href="https://mreshank.com" title="Eshank Tyagi Focus & Systems Architecture">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDAE&center=true&vCenter=true&width=750&lines=Founding+FullStack+Engineer+%40+Matters.AI;Building+convrtr+%E2%80%94+Zero-Leak+WebAssembly+Instrument;Architecting+Notater+%E2%80%94+Browser+DAW+%26+P2P+Studio;Engineering+High-Performance+Web+%26+Local-First+Systems;Open+Source+Tooling%2C+CLI+Utilities+%26+Edge+Architecture" alt="Founding Full-Stack Engineer at Matters.AI • Building convrtr & Notater • High-Performance Web & Local-First Systems" />
   </a>
+
+  
 
   <p align="center">
     <a href="https://mreshank.com"><img src="https://img.shields.io/badge/Portfolio-mreshank.com-0EA5E9?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
@@ -252,63 +253,59 @@
 
 ---
 
-### 📊 GitHub Telemetry, Activity & Live Analytics
+### 📈 Engineering Velocity & Live Telemetry
 
 <div align="center">
 
-<!-- GitHub Stats & Streak Stats Matrix in TokyoNight theme -->
-<table align="center" style="border:none;">
+<table width="100%" style="border:none;">
+  <!-- Row 1: Core Performance & Contribution Streak -->
   <tr>
-    <td align="center" style="border:none;">
+    <td width="50%" align="center" style="border:none;">
       <a href="https://github.com/mreshank">
-        <img src="https://github-readme-stats.vercel.app/api?username=mreshank&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" height="185" alt="GitHub Stats" />
+        <img width="100%" src="https://github-readme-stats.vercel.app/api?username=mreshank&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
       </a>
     </td>
-    <td align="center" style="border:none;">
+    <td width="50%" align="center" style="border:none;">
       <a href="https://github.com/mreshank">
-        <img src="https://streak-stats.demolab.com?user=mreshank&theme=tokyonight&hide_border=false" height="185" alt="GitHub Streak" />
+        <img width="100%" src="https://streak-stats.demolab.com?user=mreshank&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
       </a>
     </td>
   </tr>
-</table>
-
-<!-- Pinned Systems & Top Languages Row -->
-<table align="center" style="border:none;">
+  <!-- Row 2: Flagship System Pin & Languages Distribution -->
   <tr>
-    <td align="center" style="border:none;">
+    <td width="50%" align="center" style="border:none;">
       <a href="https://github.com/mreshank/convrtr">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mreshank&repo=convrtr&theme=tokyonight" height="150" alt="convrtr pin" />
+        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=mreshank&repo=convrtr&theme=tokyonight" alt="convrtr pin" />
       </a>
     </td>
-    <td align="center" style="border:none;">
+    <td width="50%" align="center" style="border:none;">
       <a href="https://github.com/mreshank">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mreshank&layout=compact&theme=tokyonight&hide_border=false" height="150" alt="Top Languages" />
+        <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mreshank&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" />
       </a>
     </td>
   </tr>
-</table>
-
-<!-- Profile Summary KPI Cards Matrix (TokyoNight theme) -->
-<table align="center" style="border:none;">
+  <!-- Row 3: Profile Activity Details & Waves -->
   <tr>
-    <td align="center" style="border:none;" colspan="2">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mreshank&theme=tokyonight" alt="Profile Details" />
+    <td width="100%" colspan="2" align="center" style="border:none;">
+      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mreshank&theme=tokyonight" alt="Profile Details" />
     </td>
   </tr>
+  <!-- Row 4: Productive Time & Language Repos -->
   <tr>
-    <td align="center" style="border:none;">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mreshank&theme=tokyonight&utcOffset=5.5" alt="Productive Time" />
+    <td width="50%" align="center" style="border:none;">
+      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mreshank&theme=tokyonight&utcOffset=5.5" alt="Productive Time" />
     </td>
-    <td align="center" style="border:none;">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mreshank&theme=tokyonight" alt="Repos per Language" />
+    <td width="50%" align="center" style="border:none;">
+      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mreshank&theme=tokyonight" alt="Repos per Language" />
     </td>
   </tr>
+  <!-- Row 5: Commit Language Breakdown & Overall Stats -->
   <tr>
-    <td align="center" style="border:none;">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mreshank&theme=tokyonight" alt="Most Commit Language" />
+    <td width="50%" align="center" style="border:none;">
+      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mreshank&theme=tokyonight" alt="Most Commit Language" />
     </td>
-    <td align="center" style="border:none;">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mreshank&theme=tokyonight" alt="Overall Commit Stats" />
+    <td width="50%" align="center" style="border:none;">
+      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mreshank&theme=tokyonight" alt="Overall Commit Stats" />
     </td>
   </tr>
 </table>

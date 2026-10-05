@@ -5,13 +5,13 @@
 
 <h1 align="center">
   <a href="https://mreshank.com" title="Eshank Tyagi (MrEshank) — Official Portfolio & Systems">
-    <img src="https://readme-typing-svg.demolab.com?font=DM+Sans&weight=900&size=48&duration=1000&pause=10000&color=70A5FD&center=true&vCenter=true&width=750&height=70&lines=MrEshank+%F0%9F%9B%A1%EF%B8%8F;Eshank%20Tyagi" alt="Eshank Tyagi (MrEshank) — Founding Full-Stack Engineer, Web Systems & WebAssembly Architect" />
+    <img src="https://readme-typing-svg.demolab.com?font=DM+Sans&weight=900&size=48&duration=1000&pause=10000&color=70A5FD&center=true&vCenter=true&width=750&height=70&lines=MrEshank;Eshank%20Tyagi" alt="Eshank Tyagi (MrEshank) — Founding Full-Stack Engineer, Web Systems & WebAssembly Architect" />
   </a>
 </h1>
 
   <!-- Animated Typing Subtitle -->
   <a href="https://mreshank.com" title="Eshank Tyagi Focus & Systems Architecture">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDAE&center=true&vCenter=true&width=750&lines=Founding+FullStack+Engineer+%40+Matters.AI+%F0%9F%9B%A1%EF%B8%8F;Building+convrtr+%E2%80%94+Zero-Leak+WebAssembly+Instrument+%E2%9A%A1;Architecting+Notater+%E2%80%94+Browser+DAW+%26+P2P+Studio+%F0%9F%8E%B9;Engineering+High-Performance+Web+%26+Local-First+Systems+%E2%9C%A8;Open+Source+Tooling%2C+CLI+Utilities+%26+Edge+Architecture" alt="Founding Full-Stack Engineer at Matters.AI • Building convrtr & Notater • High-Performance Web & Local-First Systems" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDAE&center=true&vCenter=true&width=750&lines=Founding+FullStack+Engineer+%40+Matters.AI;Building+convrtr+%E2%80%94+Zero-Leak+WebAssembly+Instrument;Architecting+Notater+%E2%80%94+Browser+DAW+%26+P2P+Studio;Engineering+High-Performance+Web+%26+Local-First+Systems;Open+Source+Tooling%2C+CLI+Utilities+%26+Edge+Architecture" alt="Founding Full-Stack Engineer at Matters.AI • Building convrtr & Notater • High-Performance Web & Local-First Systems" />
   </a>
 
   <p align="center">

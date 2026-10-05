@@ -5,7 +5,7 @@
 
 <h1 align="center">
   <a href="https://mreshank.com" title="Eshank Tyagi (MrEshank) — Official Portfolio & Systems">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=850&size=48&duration=8000&pause=500&color=70A5FD&center=true&vCenter=true&width=750&height=70&lines=MrEshank+%F0%9F%9B%A1%EF%B8%8F;Eshank%20Tyagi" alt="Eshank Tyagi (MrEshank) — Founding Full-Stack Engineer, Web Systems & WebAssembly Architect" />
+    <img src="https://readme-typing-svg.demolab.com?font=DM+Sans&weight=900&size=48&duration=1000&pause=10000&color=70A5FD&center=true&vCenter=true&width=750&height=70&lines=MrEshank+%F0%9F%9B%A1%EF%B8%8F;Eshank%20Tyagi" alt="Eshank Tyagi (MrEshank) — Founding Full-Stack Engineer, Web Systems & WebAssembly Architect" />
   </a>
 </h1>
 

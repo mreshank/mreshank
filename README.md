@@ -13,7 +13,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDAE&center=true&vCenter=true&width=750&lines=Founding+FullStack+Engineer+%40+Matters.AI;Building+convrtr+%E2%80%94+Zero-Leak+WebAssembly+Instrument;Architecting+Notater+%E2%80%94+Browser+DAW+%26+P2P+Studio;Engineering+High-Performance+Web+%26+Local-First+Systems;Open+Source+Tooling%2C+CLI+Utilities+%26+Edge+Architecture" alt="Founding Full-Stack Engineer at Matters.AI • Building convrtr & Notater • High-Performance Web & Local-First Systems" />
   </a>
 
-  
+  <br/>
 
   <p align="center">
     <a href="https://mreshank.com"><img src="https://img.shields.io/badge/Portfolio-mreshank.com-0EA5E9?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
